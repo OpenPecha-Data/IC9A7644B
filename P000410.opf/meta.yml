@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG18189
   title: འདུལ་བ་མེ་ཏོག་ཕྲེང་རྒྱུད་དང་། དགེ་ཚུལ་ཀཱ་རི་ཀཱ་སུམ་བརྒྱ་པ་དང་། ལྔ་བཅུ་པ་བཅས།
-  volume: ''
+  volume:
+    22f1954b4ea548e2bb192a85cad60a85:
+      image_group_id: I1KG18298
+      title: Volume 1 of 'dul ba me tog phreng rgyud dang / dge tshul kA ri kA sum
+        brgya pa dang / lnga bcu pa bcas/
+      volume_number: 1
+      total_pages: 258
   author: ''
+ebook_metadata:
+  title: འདུལ་བ་མེ་ཏོག་ཕྲེང་རྒྱུད་དང་། དགེ་ཚུལ་ཀཱ་རི་ཀཱ་སུམ་བརྒྱ་པ་དང་། ལྔ་བཅུ་པ་བཅས།
+  author: ''
+  sku: P000410
+  cover: cover.jpg
+  layers:
+  - pagination
