@@ -1,0 +1,28 @@
+id: IC9A7644B
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-18T05:56:20+00:00'
+last_modified: '2022-06-10T05:19:04.749796+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG18189
+  title: འདུལ་བ་མེ་ཏོག་ཕྲེང་རྒྱུད་དང་། དགེ་ཚུལ་ཀཱ་རི་ཀཱ་སུམ་བརྒྱ་པ་དང་། ལྔ་བཅུ་པ་བཅས།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    BCBB:
+      image_group_id: I1KG18298
+      title: Volume 1 of 'dul ba me tog phreng rgyud dang / dge tshul kA ri kA sum
+        brgya pa dang / lnga bcu pa bcas/
+      total_pages: 258
+      order: 1
+      base_file: BCBB.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
